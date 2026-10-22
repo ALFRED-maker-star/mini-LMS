@@ -1,0 +1,6 @@
+{
+  "name": "LearnPath",
+  "description": "Mini LMS with course catalog, lesson player, interactive quizzes, student progress, certificates, and instructor studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
